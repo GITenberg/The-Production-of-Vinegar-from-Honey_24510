@@ -1,0 +1,30 @@
+_repo: The-Production-of-Vinegar-from-Honey_24510
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bancks, Gerard W.
+    gutenberg_agent_id: '26543'
+    url: http://www.gutenberg.org/2009/agents/26543
+description: ''
+gutenberg_bookshelf:
+- Cookery
+- Technology
+gutenberg_issued: '2008-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24510'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QD'
+- !lcc 'TX'
+- !lcsh 'Honey'
+- !lcsh 'Vinegar'
+- !lcc 'TP'
+title: The Production of Vinegar from Honey
+url: http://www.gutenberg.org/ebooks/24510
